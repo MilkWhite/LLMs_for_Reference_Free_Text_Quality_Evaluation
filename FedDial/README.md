@@ -11,8 +11,8 @@ implicit_score_[dimension].txt: the patterns used to generate corresponding prom
 pairwise_comparison_[dimension].txt: the patterns used to generate corresponding prompts for pairwise comparison in terms of each dimension
 
 ### prompts
-explicit_score_[dimension].txt: the prompts used to derive explicit scores in terms of each dimension
+prompts_explicit_score_[dimension].json: the prompts used to derive explicit scores in terms of each dimension
 
-implicit_score_[dimension].txt: the prompts used to derive explicit scores in terms of each dimension
+prompts_implicit_score_[dimension].json: the prompts used to derive explicit scores in terms of each dimension
 
-pairwise_comparison_[dimension].txt: the prompts used for pairwise comparison in terms of each dimension
+prompts_pairwise_comparison_[dimension].json: the prompts used for pairwise comparison in terms of each dimension
