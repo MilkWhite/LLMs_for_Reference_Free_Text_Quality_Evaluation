@@ -1,0 +1,16 @@
+Consider the following two conversations between a human and an AI assistant:
+
+Conversation-1:
+{}
+
+Conversation-2:
+{}
+
+Question: In which conversation does the AI perform better in terms of "consistency"? Note that "consistency" measures how well the AI's responses provide consistent information throughout the conversation. Please answer with one of the following options.
+
+Options:
+(A) Conversation-1
+(B) Conversation-2
+(C) The AI performs equally in terms of "consistency" in both conversations.
+
+Answer: I will choose Option

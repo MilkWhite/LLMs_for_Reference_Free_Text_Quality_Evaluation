@@ -1,0 +1,8 @@
+Consider the following conversation between a human and an AI assistant:
+
+Conversation:
+{}
+
+Question: Do the AI's responses provide consistent information throughout the conversation?
+
+Answer:

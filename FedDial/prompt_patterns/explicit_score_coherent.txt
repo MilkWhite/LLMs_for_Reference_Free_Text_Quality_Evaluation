@@ -1,0 +1,6 @@
+Evaluate the AI assistant's performance in terms of "coherence" by assigning a score on a continuous scale ranging from 0 (worst) to 100 (best) based on the following conversation between a human and the AI assistant. A score of 0 indicates "incoherence", while a score of 100 indicates "perfect coherence". Keep in mind that "coherence" refers to the AI's ability to maintain a smooth conversation flow and remain coherent throughout the conversation.
+
+Conversation:
+{}
+
+Score:

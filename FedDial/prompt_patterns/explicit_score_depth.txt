@@ -1,0 +1,6 @@
+Based on the following conversation between a human and the AI assistant, please rate the AI's ability to discuss topics in depth on a continuous scale ranging from 0 (worst) to 100 (best).
+
+Conversation:
+{}
+
+Score:

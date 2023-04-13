@@ -1,0 +1,8 @@
+Consider the following conversation between a human and an AI assistant:
+
+Conversation:
+{}
+
+Question: Is the AI able to recover from errors that it makes?
+
+Answer:

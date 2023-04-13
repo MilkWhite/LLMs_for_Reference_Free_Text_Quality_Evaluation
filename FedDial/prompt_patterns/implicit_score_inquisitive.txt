@@ -1,0 +1,8 @@
+Consider the following conversation between a human and an AI assistant:
+
+Conversation:
+{}
+
+Question: Is the AI inquisitive throughout the conversation?
+
+Answer:

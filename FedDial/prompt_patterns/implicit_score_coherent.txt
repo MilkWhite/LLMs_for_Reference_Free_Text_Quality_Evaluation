@@ -1,0 +1,8 @@
+Consider the following conversation between a human and an AI assistant:
+
+Conversation:
+{}
+
+Question: Does the AI maintain a smooth conversation flow and remain coherent throughout the conversation?
+
+Answer:

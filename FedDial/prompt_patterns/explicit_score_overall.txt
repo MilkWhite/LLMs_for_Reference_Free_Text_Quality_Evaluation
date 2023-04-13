@@ -1,0 +1,6 @@
+Based on the following conversation between a human and the AI assistant, please rate the AI's overall performance on a continuous scale from 0 (worst) to 100 (best).
+
+Conversation:
+{}
+
+Score:

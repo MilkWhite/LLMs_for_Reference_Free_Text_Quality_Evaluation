@@ -1,0 +1,8 @@
+Consider the following conversation between a human and an AI assistant:
+
+Conversation:
+{}
+
+Question: Are the responses of AI informative throughout the conversation?
+
+Answer:

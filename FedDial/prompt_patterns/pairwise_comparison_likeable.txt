@@ -1,0 +1,16 @@
+Consider the following two conversations between a human and an AI assistant:
+
+Conversation-1:
+{}
+
+Conversation-2:
+{}
+
+Question: In which conversation dose the AI display a more likeable personality? Please answer with one of the following options.
+
+Options:
+(A) Conversation-1
+(B) Conversation-2
+(C) The AI displays an equally likeable personality in both conversations.
+
+Answer: I will choose Option

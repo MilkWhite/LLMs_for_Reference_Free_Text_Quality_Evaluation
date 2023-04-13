@@ -1,0 +1,8 @@
+Consider the following conversation between a human and an AI assistant:
+
+Conversation:
+{}
+
+Question: Does the AI demonstrates a good overall performance throughout the conversation?
+
+Answer:

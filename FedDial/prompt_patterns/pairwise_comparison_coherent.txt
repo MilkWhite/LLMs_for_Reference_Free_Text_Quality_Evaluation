@@ -1,0 +1,16 @@
+Consider the following two conversations between a human and an AI assistant:
+
+Conversation-1:
+{}
+
+Conversation-2:
+{}
+
+Question: In which conversation does the AI perform better in terms of "coherence"? Note that "coherence" refers to the AI's ability to maintain a smooth conversation flow and remain coherent throughout the conversation. Please answer with one of the following options.
+
+Options:
+(A) Conversation-1
+(B) Conversation-2
+(C) The AI performs equally in terms of "coherence" in both conversations.
+
+Answer: I will choose Option

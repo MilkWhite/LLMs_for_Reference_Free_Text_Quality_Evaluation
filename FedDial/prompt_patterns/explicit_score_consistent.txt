@@ -1,0 +1,6 @@
+Evaluate the AI assistant's performance in terms of "consistency" by assigning a score on a continuous scale ranging from 0 (worst) to 100 (best) based on the following conversation between a human and the AI assistant. A score of 0 indicates "inconsistency," while a score of 100 indicates "perfect consistency." Keep in mind that "consistency" measures how well the AI's responses provide consistent information throughout the conversation.
+
+Conversation:
+{}
+
+Score:
